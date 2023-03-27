@@ -1,0 +1,46 @@
+body{
+    color: #ce9d4d;
+    border-image: center;
+    text-align: center;
+    display: flex;
+    flex-direction:row;
+}
+
+h1{
+    text-align: justify;
+    font-size: 20px;
+
+}
+
+label{
+    text-align: justify;
+    box-sizing: content-box;
+}
+
+
+img{
+    height: 500px;
+    width: 500px;
+    
+}
+
+div{
+    text-align: justify;
+    color: #000000;
+    font-family: monospace;
+    background-color: aqua;
+}
+
+fieldset{
+    color: #000000;
+    font-family: cursive;
+    background-color: #03d403;
+    width: 500px;
+}
+
+button{
+    background-color: black;
+    color: #03d403;
+    font-family: 'Courier New', Courier, monospace;
+    flex-direction:column-reverse;
+}
